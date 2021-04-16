@@ -1,0 +1,13 @@
+/dev
+/run
+/media
+/sys
+/proc
+/tmp
+/var/tmp
+/var/cache
+/mnt
+/lost+found
+/home/*/.cache
+/home/*/.thumbnails
+/etc/udev/rules.d/70-persistent-net.rules
